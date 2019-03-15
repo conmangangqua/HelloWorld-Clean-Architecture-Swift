@@ -1,0 +1,6 @@
+framework module Pods_HelloWordUITests {
+  umbrella header "Pods-HelloWordUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
